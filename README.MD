@@ -3,3 +3,4 @@
 Olá! Bem vindo ao meu livro de recitas :man_cook: 
 
 - Strogonoff de Frango
+- Pavê
